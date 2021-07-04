@@ -1,0 +1,5 @@
+Python 3.9.3
+Django 3.2
+Redis
+Django restframework
+Simplejwt
